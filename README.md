@@ -4,9 +4,10 @@ Jestem front-end developerem z pasją do tworzenia nowoczesnych aplikacji intern
 
 ## 💼 Projekty
 
+- 📜 [Portfolio](https://portfolio-wm.netlify.app) - strona portfolio z listą projektów
 - 🌐 [Langofy](https://langofy.netlify.app) – aplikacja do nauki angielskiego dla dzieci
-- 🛒 [Sklep e-commerce](https://shopmyy.netlify.app) – sklep z filtrowaniem i koszykiem
 - 📱 [Langofy Mobile](https://github.com/matwid03/langofy-mobile) – wersja mobilna React Native
+- 🛒 [Sklep e-commerce](https://shopmyy.netlify.app) – sklep z filtrowaniem i koszykiem
 - ✅ [Todo App](https://toappdo.netlify.app) – prosta lista zadań
 
 ## 🛠️ Technologie
@@ -15,7 +16,7 @@ Jestem front-end developerem z pasją do tworzenia nowoczesnych aplikacji intern
 
 ## 📫 Kontakt
 
-- Email: mateusz.widawski@onet.pl
+- Email: mwidawski13@gmail.com
 - GitHub: [@matwid03](https://github.com/matwid03)
 
 
