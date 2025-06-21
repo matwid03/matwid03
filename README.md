@@ -1,6 +1,4 @@
-# Cześć! 👋 Jestem Mateusz
-
-Jestem front-end developerem z pasją do tworzenia nowoczesnych aplikacji internetowych. Skupiam się na React.js i dobrych praktykach w kodowaniu.
+# Cześć! 👋
 
 ## 💼 Projekty
 
